@@ -9,5 +9,8 @@ I used Wikipedia Movies released since 1990 and The Kaggle dataset pulls from th
 
 # Cleaned and Merged movies data  
 
+![fig-1](https://github.com/nebil2016/Movies_ETL/blob/main/Resources/Movies_16rows.png)
 
 # Cleaned and Merged rating data  
+
+![ fig-2](https://github.com/nebil2016/Movies_ETL/blob/main/Resources/rating_16rows.png)
